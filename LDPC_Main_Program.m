@@ -57,8 +57,9 @@ rate = k/N2;
 berate1 = zeros(1, length(EbN0));
 berate2 = zeros(1, length(EbN0));
 
+%Parallel Programming Starts
 %Main Loop Begins, For every value of SNR
-for i = 1:length(EbN0)
+parfor i = 1:length(EbN0)
     
     %BER per SNR and total bits being transmitted
     ber1 = 0; ber2 = 0; nbits=0;
