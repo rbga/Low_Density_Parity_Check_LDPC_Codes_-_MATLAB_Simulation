@@ -1,6 +1,11 @@
-% Coded by Bagawan S. Nugroho, 2007 
-% http://bsnugroho.googlepages.com
-%Bagawan Nugroho (2023). LDPC codes BER simulation (https://www.mathworks.com/matlabcentral/fileexchange/14869-ldpc-codes-ber-simulation), MATLAB Central File Exchange.
+%- Coded By,
+      %Ganeshaanand (Rishi) Balasubramanian
+      %MASc. Electrical and Computer Engineering
+      %Dalhousie University
+      %2018 - 2022
+      
+%------------------------------%----------------------------------%-----------------------------------%
+%------------------------------MIN SUM DECODER-----------------------%
 function vHat = MinimumSum(rx, H, iteration)
 
 [M, N] = size(H);
