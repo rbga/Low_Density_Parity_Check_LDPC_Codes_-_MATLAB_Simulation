@@ -1,4 +1,4 @@
-# Low-Density-Parity-Check-Codes---MATLAB-Simulation
+# Low Density Parity Check (LDPC) Codes MATLAB-Simulation
 LDPC MATLAB simulation using BPSK + AWGN modulation decoded using Sum Product and Min Sum Algorithm.
 
 This is one part of my Masters Thesis in Electrical and Computer Engineering. Thesis on Embargo, Coming soon. Check back on this link for the full thesis manuscript from Sep 2024
