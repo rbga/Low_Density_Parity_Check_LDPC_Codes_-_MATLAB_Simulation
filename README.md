@@ -30,7 +30,7 @@ Feel free to explore the MATLAB code and run the simulation using the provided m
 
 Please check back on the link provided in September 2024 for the full thesis manuscript, which will contain a comprehensive discussion of the LDPC simulation and its implications.
 
-For any inquiries or feedback, you can contact me at [your-email@example.com].
+For any inquiries or feedback, you can contact me at [rbga@dal.ca].
 
 
 ![image](https://user-images.githubusercontent.com/75168756/213565856-6253a0c5-ee36-4f54-ab84-b02fa6483674.png)
