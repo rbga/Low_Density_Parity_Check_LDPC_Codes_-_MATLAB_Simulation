@@ -8,7 +8,7 @@ This repository contains the MATLAB simulation for Low Density Parity Check (LDP
 
 ## Description
 
-This simulation is part of my Master's Thesis in Electrical and Computer Engineering. The thesis is currently under embargo and will be available on [this link](http://hdl.handle.net/10222/81991) from September 2023. Check back later for the full thesis manuscript.
+This simulation is part of my Master's Thesis in Electrical and Computer Engineering. The thesis is currently available on [this link](http://hdl.handle.net/10222/81991) from September 2023. Check out the full thesis manuscript.
 
 ## Simulation
 
