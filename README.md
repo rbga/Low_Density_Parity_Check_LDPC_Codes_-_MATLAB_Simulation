@@ -28,7 +28,7 @@ The simulation results are displayed in the repository.
 
 Feel free to explore the MATLAB code and run the simulation using the provided main program for a detailed understanding of LDPC codes and their performance characteristics.
 
-Please check back on the link provided in September 2024 for the full thesis manuscript, which will contain a comprehensive discussion of the LDPC simulation and its implications.
+Please check back on the link provided above for the full thesis manuscript, which will contain a comprehensive discussion of the LDPC simulation and its implications.
 
 For any inquiries or feedback, you can contact me at [rbga@dal.ca].
 
